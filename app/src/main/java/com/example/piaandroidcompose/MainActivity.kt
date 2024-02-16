@@ -111,7 +111,6 @@ fun Shopping(shop: ShopThing,modifier: Modifier = Modifier) {
     }
 }
 
-
 @Preview(showBackground = true, widthDp = 500, heightDp = 800)
 @Composable
 fun GreetingPreview() {
